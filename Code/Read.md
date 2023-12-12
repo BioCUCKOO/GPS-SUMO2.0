@@ -1,3 +1,2 @@
-#Predict.py  predict with Transformer models
-#Predict_simple.py  predict with GPS feature and PLR algorithm
-#Predict_comprehensive.py  predict with all 11 features
+#predict_github.py  predict with Transformer models
+#predict_total_github.py  predict with all 11 features
